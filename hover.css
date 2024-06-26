@@ -1,0 +1,14 @@
+div {
+    color : white;
+    background : red;
+    text-align : center;
+    font-weight : bold;
+    margin : 5px;
+    padding : 20px;
+    font-size : 30px;
+}
+div:hover {
+    background : blue;
+    font-size : 40px;
+    background-image : url("gift.jpg");
+}
